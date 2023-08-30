@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Project tracking intro component](https://ryusuke66.github.io/prioject-tracking-intro-component)
+- Live Site URL: [Project tracking intro component](https://ryusuke66.github.io/project-tracking-intro-component)
 
 ## My process
 
